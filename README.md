@@ -27,9 +27,9 @@ I'm passionate about building reliable, maintainable and scalable test automatio
 
 ### Test Automation
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Playwright](assets/badges/playwright.svg)
 ![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-43B02A?style=flat&logo=selenium&logoColor=white)
-![RSpec](https://img.shields.io/badge/RSpec-CC342D?style=flat&logo=ruby&logoColor=white)
+![RSpec](assets/badges/rspec.svg)
 
 ### Programming Languages
 
@@ -38,9 +38,9 @@ I'm passionate about building reliable, maintainable and scalable test automatio
 
 ### Cross-Browser & Cross-Device Testing
 
-![BrowserStack](https://img.shields.io/badge/BrowserStack-F7901E?style=flat)
-![Chromium](https://img.shields.io/badge/Chromium-4285F4?style=flat&logo=googlechrome&logoColor=white)
-![WebKit](https://img.shields.io/badge/WebKit-1675A9?style=flat&logo=safari&logoColor=white)
+![BrowserStack](assets/badges/browserstack.svg)
+![Chromium](assets/badges/chromium.svg)
+![WebKit](assets/badges/webkit.svg)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=firefoxbrowser&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=black)
 ![iOS](https://img.shields.io/badge/iOS-444444?style=flat&logo=apple&logoColor=white)
@@ -57,11 +57,11 @@ I'm passionate about building reliable, maintainable and scalable test automatio
 ### Tools & Environments
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat)
+![TestRail](assets/badges/testrail.svg)
+![VS Code](assets/badges/vscode.svg)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![SSH](https://img.shields.io/badge/SSH-555555?style=flat)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
+![SSH](assets/badges/ssh.svg)
+![SQL](assets/badges/sql.svg)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
@@ -122,11 +122,11 @@ Successfully validated the complete initial test suite across all three browser 
 ## Certifications & Education
 
 - **ISTQB Foundation Level Certification** (2016)
-- **BSc (Hons), Environmental Management & Planning — 2:1**  
+- **BSc (Hons), Environmental Management & Planning — 2:1**\
   Glasgow Caledonian University
 
 ## Connect with Me
 
 Currently open to Test Automation Engineer and Software Development Engineer in Test (SDET) opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewdobbinsqa/)
+[![LinkedIn](assets/badges/linkedin.svg)](https://www.linkedin.com/in/andrewdobbinsqa/)

@@ -1,0 +1,48 @@
+# Badge Asset Attribution
+
+The custom SVG badges in this directory incorporate icons and logos
+from the following third-party sources.
+
+## Playwright
+
+Source: Microsoft Playwright package (recorder/playwright-logo.svg)
+Project: https://github.com/microsoft/playwright
+Project licence: Apache License 2.0
+Licence: https://www.apache.org/licenses/LICENSE-2.0
+
+## Font Awesome
+
+Assets: LinkedIn, SSH terminal and SQL database icons
+Author: Fonticons, Inc.
+Source: https://fontawesome.com/
+Icon licence: Creative Commons Attribution 4.0 International
+Licence: https://creativecommons.org/licenses/by/4.0/
+Licensing information: https://fontawesome.com/license/free
+
+## Devicon
+
+Assets: RSpec, BrowserStack, TestRail and VS Code
+Version: 2.18.0
+Source: https://github.com/devicons/devicon
+Project licence: MIT
+See DEVICON-LICENSE.txt for the full licence notice.
+
+## Chromium
+
+Source: https://commons.wikimedia.org/wiki/File:Chromium_Logo.svg
+Listed copyright status: Public domain
+
+## WebKit
+
+Source: https://www.svgrepo.com/svg/378769/webkit
+Listed licence: CC0 1.0 Universal
+Licence: https://creativecommons.org/publicdomain/zero/1.0/
+
+## Modifications and Trademark Notice
+
+The original SVG assets have been incorporated into custom technology
+badges with backgrounds, text labels, scaling and layout adjustments.
+
+All trademarks and brand marks remain the property of their respective
+owners. Their inclusion identifies technologies and tools and does not
+imply affiliation, sponsorship or endorsement.
