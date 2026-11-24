@@ -2,54 +2,131 @@
 
 **Senior Test Engineer | Test Automation Engineer | ISTQB Certified**
 
-I'm a software testing professional based in Perth, Scotland, with experience in manual and automated testing, a strong focus on software quality, and a passion for building reliable and maintainable test automation frameworks.
+I'm a software test engineer based in Perth, Scotland, with over 10 years of commercial experience across web technologies, mobile applications and inflight entertainment systems.
 
-My current focus is developing my expertise in Playwright and TypeScript, building upon my existing experience with Selenium, Ruby and RSpec.
+My automation experience spans over five years of developing, maintaining and owning a commercial Selenium, Ruby and RSpec framework, followed by co-developing a modern Playwright and TypeScript replacement.
+
+I specialise in reusable, configuration-driven test automation, cross-browser and cross-device testing, root-cause analysis and reliable behavioural assertions. My experience also includes automation code reviews, peer mentoring and risk-based quality assurance.
+
+I'm passionate about building reliable, maintainable and scalable test automation solutions that development teams can trust.
+
+## Career Highlights
+
+- **10+ years** of commercial software testing experience.
+- **5.5+ years** of commercial Selenium, Ruby and RSpec automation development.
+- **110+ merged automation pull requests**, progressing from contributor to framework owner and designer.
+- Developed approximately **85% of a 42-specification end-to-end smoke suite**.
+- **83 automation pull requests reviewed and approved**, contributing 126 review comments focused on reliability, maintainability and code quality.
+- Designed reusable, configuration-driven automation across multiple customer environments.
+- Developed cross-browser and real-device automation using BrowserStack, covering nine browser and device configurations per customer.
+- Co-developed a modern Playwright and TypeScript automation framework using Docker.
+- Developed sustained-playback tests with stall detection, network-error handling and diagnostic logging.
+- Mentored colleagues in automation development and framework contribution.
 
 ## Technical Skills
 
 ### Test Automation
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![RSpec](https://img.shields.io/badge/RSpec-CC342D?style=flat-square&logo=ruby&logoColor=white)
 
 ### Programming Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 
-### Tools & Technologies
+### Cross-Browser & Cross-Device Testing
+
+![BrowserStack](https://img.shields.io/badge/BrowserStack-F7901E?style=flat-square)
+![Chromium](https://img.shields.io/badge/Chromium-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![WebKit](https://img.shields.io/badge/WebKit-1675A9?style=flat-square&logo=safari&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
+![iOS](https://img.shields.io/badge/iOS-444444?style=flat-square&logo=apple&logoColor=white)
+
+### Version Control, CI/CD & Infrastructure
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![BrowserStack](https://img.shields.io/badge/BrowserStack-F7901E?style=flat-square)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### Tools & Environments
+
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat-square)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![SSH](https://img.shields.io/badge/SSH-555555?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 
 ## Featured Project
 
 ### [Playwright Automation Framework](https://github.com/AndrewDobbinsQA/playwright-automation)
 
-A personal test automation project focused on end-to-end UI and API testing using Playwright and TypeScript.
+[![Playwright Tests](https://github.com/AndrewDobbinsQA/playwright-automation/actions/workflows/playwright.yml/badge.svg?branch=main)](https://github.com/AndrewDobbinsQA/playwright-automation/actions/workflows/playwright.yml)
 
-The project aims to demonstrate practical automation skills, maintainable framework architecture, reliable test execution and modern software testing practices.
+An independently developed test automation framework using Playwright and TypeScript, targeting the Practice Software Testing Toolshop application.
 
-## Professional Interests
+The project builds upon my commercial automation experience and provides a practical demonstration of modern framework architecture, reliable test execution and continuous integration.
 
-- Test automation framework development
-- End-to-end and API testing
+**Current features:**
+
+- Page object model architecture.
+- Cross-browser testing across Chromium, Firefox and WebKit.
+- Positive, negative and validation-based authentication testing.
+- Environment-based configuration and secure credential management.
+- Automated test execution using GitHub Actions.
+- Reproducible Docker Compose-based test environment.
+- Automated database migrations and seeding.
+- Application readiness checks and diagnostic logging.
+- TypeScript strict mode and automated type-checking.
+- Playwright HTML reporting and trace collection.
+
+**Technical milestone:**
+
+Designed and implemented a self-contained Docker-based test environment within GitHub Actions, removing dependency on a publicly hosted application and resolving Cloudflare-related authentication restrictions in CI.
+
+Successfully validated the complete initial test suite across all three browser engines, with 12 test executions passing and no failures or skipped tests.
+
+**Planned development:**
+
+- Expanded end-to-end UI test coverage.
+- API automation and response validation.
+- Reusable fixtures and test data management.
+- Enhanced reporting and CI optimisation.
+
+**Status:** In active development
+
+## Engineering Focus
+
+- Test automation framework architecture and design
+- Page object models and reusable test components
+- Configuration-driven, multi-environment testing
+- Cross-browser and real-device automation
+- Condition-based waits and reliable assertions
+- Flaky test investigation and root-cause analysis
+- Negative testing and business logic validation
+- Media playback and resilience testing
+- Automation code reviews and peer mentoring
+- Risk-based testing and automation strategy
 - Continuous integration and delivery
-- Test reliability and maintainability
-- Software quality and continuous improvement
+- AI-assisted testing and test design
 
-## Certifications
+## Certifications & Education
 
-- ISTQB Certified
+- **ISTQB Foundation Level Certification** (2016)
+- **BSc (Hons), Environmental Management & Planning — 2:1**  
+  Glasgow Caledonian University
 
 ## Connect with Me
+
+Currently open to Test Automation Engineer and Software Development Engineer in Test (SDET) opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewdobbinsqa/)
