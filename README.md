@@ -70,37 +70,39 @@ I'm passionate about building reliable, maintainable and scalable test automatio
 
 ### [Playwright Automation Framework](https://github.com/AndrewDobbinsQA/playwright-automation)
 
-[![Playwright Tests](https://github.com/AndrewDobbinsQA/playwright-automation/actions/workflows/playwright.yml/badge.svg?branch=main)](https://github.com/AndrewDobbinsQA/playwright-automation/actions/workflows/playwright.yml)
-
 An independently developed test automation framework using Playwright and TypeScript, targeting the Practice Software Testing Toolshop application.
 
-The project builds upon my commercial automation experience and provides a practical demonstration of modern framework architecture, reliable test execution and continuous integration.
+The project builds upon my commercial automation experience and demonstrates modern framework design, reliable test execution, reproducible test environments and continuous integration.
 
 **Current features:**
 
-- Page object model architecture.
+- Page Object Model architecture with reusable page interactions.
 - Cross-browser testing across Chromium, Firefox and WebKit.
-- Positive, negative and validation-based authentication testing.
+- Homepage and positive, negative and validation-based authentication testing.
+- Product search and category filtering, including exact product collection validation.
+- Parameterised test scenarios and reusable assertion helpers.
 - Environment-based configuration and secure credential management.
 - Automated test execution using GitHub Actions.
 - Reproducible Docker Compose-based test environment.
 - Automated database migrations and seeding.
 - Application readiness checks and diagnostic logging.
-- TypeScript strict mode and automated type-checking.
+- Strict TypeScript validation.
 - Playwright HTML reporting and trace collection.
 
 **Technical milestone:**
 
 Designed and implemented a self-contained Docker-based test environment within GitHub Actions, removing dependency on a publicly hosted application and resolving Cloudflare-related authentication restrictions in CI.
 
-Successfully validated the complete initial test suite across all three browser engines, with 12 test executions passing and no failures or skipped tests.
+The current suite comprises 10 UI test scenarios, providing 30 configured test executions across three browser engines.
 
 **Planned development:**
 
-- Expanded end-to-end UI test coverage.
-- API automation and response validation.
+- REST API automation covering product and authentication endpoints.
+- Combined UI and API test scenarios.
+- Database validation using MariaDB.
+- Shopping cart and end-to-end checkout coverage.
 - Reusable fixtures and test data management.
-- Enhanced reporting and CI optimisation.
+- Continued framework refinement, reporting and failure diagnostics.
 
 **Status:** In active development
 
@@ -124,6 +126,14 @@ Successfully validated the complete initial test suite across all three browser 
 - **ISTQB Foundation Level Certification** (2016)
 - **BSc (Hons), Environmental Management & Planning — 2:1**\
   Glasgow Caledonian University
+
+## Outside of Work
+
+Outside of software testing, I'm a keen cyclist, runner and hillwalker, with a particular interest in exploring Scotland's Munros.
+
+I enjoy challenging myself, setting long-term goals and tracking my progress across these activities.
+
+[![Strava](https://img.shields.io/badge/Strava-FC4C02?style=flat&logo=strava&logoColor=white)](https://www.strava.com/athletes/86488751)
 
 ## Connect with Me
 
