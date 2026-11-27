@@ -8,6 +8,8 @@ My automation experience spans over five years of developing, maintaining and ow
 
 I specialise in reusable, configuration-driven test automation, cross-browser and cross-device testing, root-cause analysis and reliable behavioural assertions. My experience also includes automation code reviews, peer mentoring and risk-based quality assurance.
 
+I'm currently developing an independent Playwright and TypeScript automation framework, demonstrating modern UI and REST API testing capabilities, reusable framework architecture and continuous integration.
+
 I'm passionate about building reliable, maintainable and scalable test automation solutions that development teams can trust.
 
 ## Career Highlights
@@ -36,6 +38,12 @@ I'm passionate about building reliable, maintainable and scalable test automatio
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 
+### API Testing
+
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
 ### Cross-Browser & Cross-Device Testing
 
 ![BrowserStack](assets/badges/browserstack.svg)
@@ -63,45 +71,78 @@ I'm passionate about building reliable, maintainable and scalable test automatio
 ![SSH](assets/badges/ssh.svg)
 ![SQL](assets/badges/sql.svg)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 
 ## Featured Project
 
 ### [Playwright Automation Framework](https://github.com/AndrewDobbinsQA/playwright-automation)
 
-An independently developed test automation framework using Playwright and TypeScript, targeting the Practice Software Testing Toolshop application.
+[![Playwright Tests](https://github.com/AndrewDobbinsQA/playwright-automation/actions/workflows/playwright.yml/badge.svg?branch=main)](https://github.com/AndrewDobbinsQA/playwright-automation/actions/workflows/playwright.yml)
 
-The project builds upon my commercial automation experience and demonstrates modern framework design, reliable test execution, reproducible test environments and continuous integration.
+An independently developed UI and REST API test automation framework using Playwright and TypeScript, targeting the Practice Software Testing Toolshop application.
 
-**Current features:**
+The project builds upon my commercial automation experience and demonstrates modern framework design, comprehensive test coverage, reproducible test environments and continuous integration.
+
+**UI Test Automation:**
 
 - Page Object Model architecture with reusable page interactions.
 - Cross-browser testing across Chromium, Firefox and WebKit.
 - Homepage and positive, negative and validation-based authentication testing.
 - Product search and category filtering, including exact product collection validation.
 - Parameterised test scenarios and reusable assertion helpers.
-- Environment-based configuration and secure credential management.
-- Automated test execution using GitHub Actions.
+
+**REST API Test Automation:**
+
+- Dedicated API test project supporting independent UI and API execution.
+- Reusable API client architecture and strongly typed response models.
+- Positive, negative and boundary testing across four product catalogue endpoints.
+- Product retrieval, filtering, sorting, search and pagination validation.
+- Runtime response structure and cross-endpoint data consistency validation.
+- Dynamic test data identification and product relationship validation.
+- Reusable HTTP response, pagination and product assertion helpers.
+
+**Continuous Integration & Infrastructure:**
+
+- Automated UI and API test execution using GitHub Actions.
 - Reproducible Docker Compose-based test environment.
 - Automated database migrations and seeding.
 - Application readiness checks and diagnostic logging.
+- Environment-based configuration and secure credential management.
 - Strict TypeScript validation.
 - Playwright HTML reporting and trace collection.
 
-**Technical milestone:**
+**Exploratory Testing & Defect Management:**
 
-Designed and implemented a self-contained Docker-based test environment within GitHub Actions, removing dependency on a publicly hosted application and resolving Cloudflare-related authentication restrictions in CI.
+- Exploratory API testing using Swagger and direct HTTP requests.
+- Investigation of application behaviour and API contract discrepancies.
+- Structured defect reporting, severity classification and issue tracking.
+- Conditional expected failure handling with direct defect traceability in automated test reports.
+- Issue-driven development with defined acceptance criteria and pull request validation.
 
-The current suite comprises 10 UI test scenarios, providing 30 configured test executions across three browser engines.
+**Current Test Coverage:**
 
-**Planned development:**
+| Test Coverage | Scenarios | Configured Executions |
+| --- | ---: | ---: |
+| UI Automation | 10 | 30 |
+| REST API Automation | 53 | 53 |
+| **Total** | **63** | **83** |
 
-- REST API automation covering product and authentication endpoints.
+The complete CI regression suite executes across three browser engines and a dedicated API test project, with 81 conventional passes, two documented expected failures and zero unexpected failures in the latest validated feature regression.
+
+**Technical Milestones:**
+
+- Designed and implemented a self-contained Docker-based test environment within GitHub Actions, removing dependency on a publicly hosted application and resolving Cloudflare-related authentication restrictions in CI.
+- Established a reusable REST API testing architecture alongside the existing cross-browser UI framework, implementing 53 automated API scenarios across nine focused specification files.
+- Introduced automated defect traceability, preserving visibility of known application defects without masking unexpected test failures.
+
+**Planned Development:**
+
+- Authentication and payment API test coverage.
 - Combined UI and API test scenarios.
 - Database validation using MariaDB.
 - Shopping cart and end-to-end checkout coverage.
 - Reusable fixtures and test data management.
+- Accessibility and performance testing exploration.
 - Continued framework refinement, reporting and failure diagnostics.
 
 **Status:** In active development
@@ -110,11 +151,14 @@ The current suite comprises 10 UI test scenarios, providing 30 configured test e
 
 - Test automation framework architecture and design
 - Page object models and reusable test components
+- REST API automation and reusable API clients
 - Configuration-driven, multi-environment testing
 - Cross-browser and real-device automation
 - Condition-based waits and reliable assertions
+- Positive, negative and boundary testing
+- API response validation and cross-endpoint data consistency
+- Exploratory testing and defect traceability
 - Flaky test investigation and root-cause analysis
-- Negative testing and business logic validation
 - Media playback and resilience testing
 - Automation code reviews and peer mentoring
 - Risk-based testing and automation strategy
@@ -137,6 +181,6 @@ I enjoy challenging myself, setting long-term goals and tracking my progress acr
 
 ## Connect with Me
 
-Currently open to Test Automation Engineer and Software Development Engineer in Test (SDET) opportunities.
+Currently open to Senior Test Engineer, Test Automation Engineer and Software Development Engineer in Test (SDET) opportunities.
 
 [![LinkedIn](assets/badges/linkedin.svg)](https://www.linkedin.com/in/andrewdobbinsqa/)
