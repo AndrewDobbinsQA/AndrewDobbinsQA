@@ -2,7 +2,7 @@
 
 **Senior Test Engineer | Test Automation & Software Quality | ISTQB Certified**
 
-I'm a software test engineer based in Perth, Scotland, with over 10 years of commercial experience across web technologies, mobile applications and inflight entertainment systems.
+I'm a senior software test engineer based in Perth, Scotland, with over 10 years of commercial experience across web technologies, mobile applications and inflight entertainment systems.
 
 My automation experience spans over five years of developing, maintaining and owning a commercial Selenium, Ruby and RSpec framework, followed by co-developing a modern Playwright and TypeScript replacement.
 
