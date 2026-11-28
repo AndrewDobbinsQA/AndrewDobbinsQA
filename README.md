@@ -1,6 +1,6 @@
 # Hi, I'm Andrew Dobbins
 
-**Senior Test Engineer | Test Automation Engineer | ISTQB Certified**
+**Senior Test Engineer | Test Automation & Software Quality | ISTQB Certified**
 
 I'm a software test engineer based in Perth, Scotland, with over 10 years of commercial experience across web technologies, mobile applications and inflight entertainment systems.
 
